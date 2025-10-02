@@ -1,0 +1,45 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+venv/
+.env/
+.env.bak/
+*.venv/
+
+# PyTorch / Model files
+*.pth
+*.pt
+*.onnx
+
+# Streamlit cache
+.streamlit/
+.cache/
+
+# Logs
+*.log
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Build / Dist
+build/
+dist/
+*.egg-info/
+
+# Temp files
+*.tmp
+*.bak
+*.swp
