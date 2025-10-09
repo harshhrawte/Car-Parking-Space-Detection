@@ -6,4 +6,5 @@ folium
 geopy
 pandas
 streamlit-folium
+torch cu
 
