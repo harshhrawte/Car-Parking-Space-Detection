@@ -1,6 +1,4 @@
 streamlit
-torch
-torchvision
 Pillow
 numpy
 osmnx
@@ -8,3 +6,4 @@ folium
 geopy
 pandas
 streamlit-folium
+
